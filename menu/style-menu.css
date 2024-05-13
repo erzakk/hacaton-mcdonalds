@@ -1,0 +1,68 @@
+.logo{
+    width: 90px;
+    height: 90px;
+    padding: 10px;
+}
+.header-div{
+    box-shadow:0 0 0 10 black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    text-decoration: none;
+    margin-bottom: 10px;
+
+
+}
+.meny{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: black;
+    text-decoration: none;
+    padding: 10px;
+    float: top;
+    font-size: 25px;
+
+}
+.img{
+    width: 250px;
+    height: 230px;
+    display: flex;
+    justify-content: center;
+    padding: 25px;
+    margin: 25px;
+}
+.blok{
+    display: flex;
+    justify-content: center;
+    padding: 25px;
+    margin: 25px;
+}
+.blok p{
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 100px;
+}
+.blok2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    justify-content: center;
+    padding: 25px;
+    margin: 25px;
+}
+
+.blok2 h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    justify-content: center;
+    padding-right: 20px;
+}
+.blok2 p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    justify-content: center;
+    padding-right: 20px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
